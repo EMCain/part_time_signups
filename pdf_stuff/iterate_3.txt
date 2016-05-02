@@ -1,0 +1,12 @@
+nums = range(0, 50)
+
+dict = {'1': [], '2': [], '3':[]}
+
+counter = 0
+for i in range(50):
+	if counter == 3:
+		counter = 0
+	dict[str(counter)].append(i)
+	counter += 1
+	
+print dict

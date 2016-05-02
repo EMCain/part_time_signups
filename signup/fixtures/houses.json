@@ -1,0 +1,98 @@
+[
+
+    {
+      "model": "signup.House",
+      "pk": 1,
+      "fields": {
+        "name": "Pines"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 2,
+      "fields": {
+        "name": "Maples"
+      }
+    },    {
+      "model": "signup.House",
+      "pk": 3,
+      "fields": {
+        "name": "Cedars"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 4,
+      "fields": {
+        "name": "Firs"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 5,
+      "fields": {
+        "name": "Hemlock"
+      }
+    },
+
+      {
+      "model": "signup.House",
+      "pk": 6,
+      "fields": {
+        "name": "Madrona"
+      }
+    },
+
+      {
+      "model": "signup.House",
+      "pk": 7,
+      "fields": {
+        "name": "Tamarack"
+      }
+    },
+
+    {
+      "model": "signup.House",
+      "pk": 8,
+      "fields": {
+        "name": "Inn Annex"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 9,
+      "fields": {
+        "name": "Inn"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 10,
+      "fields": {
+        "name": "Reeser"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 11,
+      "fields": {
+        "name": "Spruce"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 12,
+      "fields": {
+        "name": "Salal"
+      }
+    },
+    {
+      "model": "signup.House",
+      "pk": 13,
+      "fields": {
+        "name": "Huckleberry"
+      }
+    }
+
+
+]
